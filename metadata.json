@@ -1,0 +1,6 @@
+{
+  "name": "UHGOTALE: Aniversário Lendário",
+  "description": "UHGOTALE - Servidor RPG estilo Undertale e Deltarune de aniversário com batalhas em equipe, piadas internas e cartão com foto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
